@@ -1,0 +1,14 @@
+:root {
+  --primary: #E92215;
+  --secondary: #151515;
+  --gray: #444444;
+
+  --dark-overlay: rgba(14, 14, 14, 0.6);
+
+  --text: #efefef;
+
+  --smooth-radius: 7px;
+  --round-radius: 50px;
+
+  --font-family: Roboto, sans-serif;
+}

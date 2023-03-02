@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g>
+        <path d="M50.4 17.3v29a4.6 4.6 0 0 1-4.6 4.7H17.2a4.6 4.6 0 0 1-4.6-4.6v-29a4.6 4.6 0 0 1 4.6-4.7h28.6"
+              class="cls-1"/>
+        <circle fill="#fff" cx="50.5" cy="13.8" r="1"/>
+        <path d="M29 28h5v1.7h0c.7-1 1.7-2 4.3-2 3.3 0 5.7 2.1 5.7 6.8v9.3h-5v-8.7c0-2-.6-3.4-2.4-3.4a2.6 2.6 0 0 0-2.5 1.8 3.5 3.5 0 0 0-.1 1.3v9h-4.9V32M25.2 32.1V44h-4.9V28.1h4.9M25.5 22.8a2.8 2.8 0 1 1-2.8-2.8"
+              class="cls-1"/>
+    </g>
+</svg>

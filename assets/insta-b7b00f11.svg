@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g>
+        <path d="M50.4 17.5v29a4.6 4.6 0 0 1-4.6 4.7H17.2a4.6 4.6 0 0 1-4.6-4.7v-29a4.6 4.6 0 0 1 4.6-4.7h28.6"
+              class="cls-1"/>
+        <circle fill="#fff" cx="50.5" cy="13.8" r="1"/>
+        <circle fill="#fff" cx="39" cy="25" r="1"/>
+        <path d="M23.8 20.3a3.8 3.8 0 0 0-3.5 3.8v15.8a3.8 3.8 0 0 0 3.8 3.8h8.6" class="cls-1"/>
+        <path d="M32.6 43.7H40a3.8 3.8 0 0 0 3.8-3.8V24.1a3.8 3.8 0 0 0-3.8-3.8H24.1a1.4 1.4 0 0 0-.3 0" class="cls-1"/>
+        <path d="M34 26.7a5.6 5.6 0 1 0 3.6 5.3" class="cls-1"/>
+    </g>
+</svg>
